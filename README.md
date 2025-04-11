@@ -1,8 +1,6 @@
-# SQL_EDA_Project
+# My SQL EDA Project
 By Mohak Pachpor | MBA First-Year | IIT Kanpur  This project involves performing SQL-based Exploratory Data Analysis on a simulated retail data warehouse containing customer, product, and sales tables. The objective was to derive business insights while strengthening hands-on SQL and data handling skills.
 Here is a professional and polished README file for your EDA Project: Business & Sales Analysis, written in the tone of an MBA student, ready to be added to your GitHub repository.
-
-⸻
 
 Project Overview
 
